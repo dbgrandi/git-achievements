@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>David Grandinetti's Git Achievements</title>
+<item><title>Apprentice Chimney Sweeper (Level 1)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
 </channel></rss>
