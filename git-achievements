@@ -86,7 +86,6 @@ function unlock_achievement()
     if [ "`git config --global achievement.upload`" = "true" ] ; then
         publish_achievements "$@"
     fi
-    campfire "$(git config user.name) achieved $1 because they $2"
 }
 
 function count_command
